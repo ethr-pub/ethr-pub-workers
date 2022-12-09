@@ -1,0 +1,12 @@
+name = "ethr-pub-workers"
+main = "./src/index.ts"
+compatibility_date = "2022-11-30"
+workers_dev = true
+minify = true
+send_metrics = true
+account_id = "721853be7b3feb8dae2bf2f0cb6bb47e"
+
+[vars]
+DOMAIN = "https://ipns.fun"
+ZONE_NAME = "ipns.fun"
+ZONE_ID = "ca8e3cb63a6c6a37d56430939854bc3b"
