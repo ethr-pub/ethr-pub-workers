@@ -2,7 +2,7 @@
 
 ## install
 
- - `yarn install`
- - `yarn add global wrangler`
- - `wrangler secret put OKLINK_API_KEY`
- - `yarn dev`
+- `yarn install`
+- `yarn add global wrangler`
+- `wrangler secret put Cloudflare_Authorization`
+- `yarn dev`
